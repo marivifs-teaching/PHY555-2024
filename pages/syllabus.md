@@ -12,8 +12,7 @@
 
 ## Texts:
 We will use a combination of books. In the past I have used the book by **Cohen and Louie (Fundamentals of Condensed Matter Physics, Cambridge University Press)**. I will use it also this semester for some sections. You can also choose to buy other. My preferred book has always been Ashcoft, tied to Ziman's. However the new book by Cohen and Luie is way more modern. This semester I will also use **Solid State Physics, by Giuseppe Grosso and Giuseppe Pastori
-Parravicini**, any edition is fine (Elsevier, isbn: 9780080481029). The main reason this text was chosen
-(instead of the more classic ones below), is that it provides more modern topics and treatment of solid-state
+Parravicini**, any edition is fine (Elsevier, isbn: 9780080481029). The main reason this text was chosen, is that it provides more modern topics and treatment of solid-state
 physics.
 
 
