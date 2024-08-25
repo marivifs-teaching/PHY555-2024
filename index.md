@@ -36,7 +36,7 @@ description: Graduate Solid State Physics, PHY 555 Website.
   <summary>Homework 1 (<b>Due 09/06/24</b>)</summary>
 
 <ul>
-  <li><a href="./Users/marivi/Dropbox/Teaching/PHY555/2024/PHY555-2024/pages/HW/HW1.pdf" target="_blank" rel="noopener noreferrer">Homework 1</a> </li>
+  <li><a href="./pages/HW/HW1.pdf" target="_blank" rel="noopener noreferrer">Homework 1</a> </li>
 </ul>
 </details>
 
