@@ -21,7 +21,7 @@ description: Graduate Solid State Physics, PHY 555 Website.
   <summary>Lecture 1: Intro and motivation</summary>
 
 <ul>
-  <li> <a href="./pages/Lectures/L1/Lec1.pdf" target="_blank" rel="noopener noreferrer">Lecture 1/2 notes</a>  </li>
+  <li> <a href="./pages/Lectures/L1/Lec1.pdf" target="_blank" rel="noopener noreferrer">Lecture 1notes</a>  </li>
   <li> Readings: </li>
   <ul>
   <li> <a href="./pages/Lectures/L1/Anderson-MoreIsDifferent.pdf" target="_blank" rel="noopener noreferrer">More is Different, Phil Anderson</a> </li>
