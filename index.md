@@ -13,7 +13,7 @@ description: Graduate Solid State Physics, PHY 555 Website.
 
 *Lecture room:* B131
 
-*Office Hours:* Mondays and Wednesdays 11:00 am - 12:00 pm
+*Office Hours:* Mondays 11:00 am - 12:00 pm, and Wednesdays 3:30 pm - 4:30 pm
 
 [Syllabus](pages/syllabus.html)
 
