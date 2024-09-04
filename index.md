@@ -13,7 +13,7 @@ description: Graduate Solid State Physics, PHY 555 Website.
 
 *Lecture room:* B131
 
-*Office Hours:* Mondays 11:00 am - 12:00 pm, and Wednesdays 3:30 pm - 4:30 pm
+*Office Hours:* Mondays and Wednesdays 3:30 pm - 4:30 pm
 
 [Syllabus](pages/syllabus.html)
 
@@ -49,6 +49,23 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </ul>
 </details>
 
+<details>
+  <summary>Lecture 3: Bravais Lattice and Reciprocal Lattice</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L3/L3.pdf" target="_blank" rel="noopener noreferrer">Lecture 3 notes</a>  </li>
+   <li> <a href="./pages/Lectures/L3/L3-slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 3 slides</a>  </li>
+  <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Chapter II </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 8 & 9</li>
+  </ul>
+
+  
+</ul>
+</details>
 
 
 ## Homework
