@@ -60,8 +60,12 @@ description: Graduate Solid State Physics, PHY 555 Website.
   <li> Grosso and Parravicini, Chapter II </li>
   </ul>
   <ul>
-  <li> Ashcroft and Mermin, Chapter 8 & 9</li>
+  <li> Ashcroft and Mermin, Chapters 4 & 5</li>
   </ul>
+  <ul>
+  <li> Cohen and Louie, Chapter II </li>
+  </ul>
+
 
   
 </ul>
