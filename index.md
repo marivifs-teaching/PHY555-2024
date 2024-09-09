@@ -50,7 +50,7 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </details>
 
 <details>
-  <summary>Lecture 3: Bravais Lattice and Reciprocal Lattice</summary>
+  <summary>Lectures 3-4: Bravais Lattice and Reciprocal Lattice</summary>
 
 <ul>
   <li> <a href="./pages/Lectures/L3/L3.pdf" target="_blank" rel="noopener noreferrer">Lecture 3 notes</a>  </li>
