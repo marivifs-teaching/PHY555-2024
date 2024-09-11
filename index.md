@@ -71,6 +71,28 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </ul>
 </details>
 
+<details>
+  <summary>Lecture 5: Tight Binding Band Structure I</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L5/L5.pdf" target="_blank" rel="noopener noreferrer">Lecture 5 notes</a>  </li>
+  <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Chapter I.4 </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 10 </li>
+  </ul>
+  <ul>
+  <li> Ziman, Chapter 3 </li>
+  </ul>
+
+
+  
+</ul>
+</details>
+
+
 
 ## Homework
 
