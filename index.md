@@ -55,6 +55,8 @@ description: Graduate Solid State Physics, PHY 555 Website.
 <ul>
   <li> <a href="./pages/Lectures/L3/L3.pdf" target="_blank" rel="noopener noreferrer">Lecture 3 notes</a>  </li>
    <li> <a href="./pages/Lectures/L3/L3-slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 3 slides</a>  </li>
+   
+    <li> <a href="https://lampz.tugraz.at/~hadley/ss1/bzones/" target="_blank" rel="noopener noreferrer">Brilloin Zones and High Symmetry directions</a>  </li>
   <li> Readings: </li>
   <ul>
   <li> Grosso and Parravicini, Chapter II </li>

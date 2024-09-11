@@ -49,7 +49,10 @@ matlab, python, or another language of your choice). **Assignments will be submi
 **Homework will be worth 50 % of the final grade.**
 
 ## Exams:
-There will be one midterm exam (date TBD) and a final exam (during the assigned final exam period).
+There will be one midterm exam  and a final exam (during the assigned final exam period).
+	
+	* MT Exam Date November 4 (Monday) in Class time
+
 The final will be cumulative. The midterm will be worth 20 % of the final grade, and the final
 exam will be worth 30 % of the final grade.
 
