@@ -95,11 +95,14 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </details>
 
 <details>
-  <summary>Lecture 6: Tight Binding Band Structure II</summary>
+  <summary>Lecture 6-7: Tight Binding Band Structure II</summary>
 
 <ul>
   <li> <a href="./pages/Lectures/L6/L6.pdf" target="_blank" rel="noopener noreferrer">Lecture 6 notes</a>  </li>
   <li> <a href="./pages/Lectures/L6/L6Slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 6 slides</a>  </li>
+  <li> <a href="./pages/Lectures/L6/Chadi-Cohen.pdf" target="_blank" rel="noopener noreferrer">Chadi-Cohen Paper</a>  </li>
+  <li> <a href="https://github.com/rpmuller/TightBinding/blob/master/chadicohen.ipynb"target="_blank" rel="noopener noreferrer">Chadi-Cohen TB program</a>  </li>
+  
   <li> Readings: </li>
   <ul>
   <li> Grosso and Parravicini, Chapter I.4 </li>
