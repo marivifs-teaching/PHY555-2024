@@ -117,6 +117,24 @@ description: Graduate Solid State Physics, PHY 555 Website.
   <li> Ziman, Chapter 3 </li>
   </ul>
   
+</ul>
+</details>
+
+<details>
+  <summary>Lecture 8-9: Nearly Free Electrons and Plane Waves</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L8/L8.pdf" target="_blank" rel="noopener noreferrer">Lecture 8-9 notes</a>  </li>
+  <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Chapter I.5 </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 9 </li>
+  </ul>
+  <ul>
+  <li> Ziman, Chapter 3 </li>
+  </ul>
 
   
 </ul>
