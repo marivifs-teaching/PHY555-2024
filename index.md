@@ -125,6 +125,7 @@ description: Graduate Solid State Physics, PHY 555 Website.
 
 <ul>
   <li> <a href="./pages/Lectures/L8/L8.pdf" target="_blank" rel="noopener noreferrer">Lecture 8-9 notes</a>  </li>
+  <li> <a href="./pages/Lectures/L8/Lec8-9-slides.pdf" target="_blank" rel="noopener noreferrer">Lecture 8-9 slides</a>  </li>
   <li> Readings: </li>
   <ul>
   <li> Grosso and Parravicini, Chapter I.5 </li>
@@ -161,7 +162,13 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </details>
 
 
+<details>
+  <summary>Homework 3 (<b>Due 10/04/24</b>)</summary>
 
+<ul>
+  <li><a href="./pages/HW/HW3.pdf" target="_blank" rel="noopener noreferrer">Homework 3</a> </li>
+</ul>
+</details>
 
 
 
