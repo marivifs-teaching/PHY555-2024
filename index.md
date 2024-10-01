@@ -141,6 +141,22 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </ul>
 </details>
 
+<details>
+  <summary>Lecture 10-11: Sommerfeld Model for Metals</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L10/L10.pdf" target="_blank" rel="noopener noreferrer">Lecture 10-11 notes</a>  </li>
+   <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Chapter III </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 2 </li>
+  </ul>
+
+  
+</ul>
+</details>
 
 
 ## Homework
