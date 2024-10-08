@@ -187,4 +187,10 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </details>
 
 
+<details>
+  <summary>Homework 4 (<b>Due 10/18/24</b>)</summary>
 
+<ul>
+  <li><a href="./pages/HW/HW4.pdf" target="_blank" rel="noopener noreferrer">Homework 3</a> </li>
+</ul>
+</details>
