@@ -182,6 +182,28 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </ul>
 </details>
 
+<details>
+  <summary>Lecture 14: Intro to lattice dynamics</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L14/L14-15.pdf" target="_blank" rel="noopener noreferrer">Lecture 14 notes</a>  </li>
+     
+      <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Grosso and Parravicini, Chapter IX </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 21, 22</li>
+  </ul>
+  <ul>
+  <li> Cohen and Louie, Chapter 4</li>
+  </ul>
+
+
+  
+</ul>
+</details>
+
 
 ## Homework
 
