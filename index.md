@@ -204,6 +204,30 @@ description: Graduate Solid State Physics, PHY 555 Website.
 </ul>
 </details>
 
+<details>
+  <summary>Lecture 16-17: Lattice dynamics</summary>
+
+<ul>
+  <li> <a href="./pages/Lectures/L16/L16-17.pdf" target="_blank" rel="noopener noreferrer">Lecture 16-17 notes</a>  </li>
+   <li> <a href="./pages/Lectures/L16/LatticeDynamicsSlides.pdf" target="_blank" rel="noopener noreferrer">Lecture 16 slides</a>  </li>
+     
+      <li> Readings: </li>
+  <ul>
+  <li> Grosso and Parravicini, Grosso and Parravicini, Chapter IX </li>
+  </ul>
+  <ul>
+  <li> Ashcroft and Mermin, Chapter 21, 22</li>
+  </ul>
+  <ul>
+  <li> Cohen and Louie, Chapter 4</li>
+  </ul>
+
+
+  
+</ul>
+</details>
+
+
 
 ## Homework
 
